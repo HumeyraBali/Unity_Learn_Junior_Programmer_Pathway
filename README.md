@@ -18,8 +18,9 @@ Welcome to my Unity projects repository! This collection of projects represents 
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/3.png" align="left" width="400" />
 
-In this Project, programed a car moving side-to-side on a floating road, trying to avoid (or hit) obstacles in the way.  
-dfhdjhfhdf  
+This project focuses on developing player control mechanics. It introduces basic movement scripts and player input handling.  
+The aim of the game is to drive a car using the arrow keys, trying to avoid (or crash into) obstacles on the road.  
+  
 **Key Skills**: C# Programming Basics, Unity Input System, Game Object Manipulation, Basic Game Physics, Camera Setup.  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421094)  
 
@@ -29,11 +30,11 @@ dfhdjhfhdf
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/1.png" align="left" width="400" />  
 
-**Description**: [Provide a brief description of the project, the mechanics involved, and any interesting features or challenges you encountered during development.]
-sjhfjdhfdfghdgf  
-dsjhsfsdfgds  
-dhfjshfadgf  
-jhjdsfhdsh  
+In this challenge, a control system was created for an aircraft that allows realistic flight dynamics and user control.  
+The aim of the game is, fly a plane around obstacles in the sky with the up and down arrow keys.  
+  
+**Key Skills**: Input handling, Physics-based movement, Flight dynamics, Camera setup, Collision avoidance
+  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421083)  
 
 ---   
@@ -42,13 +43,13 @@ jhjdsfhdsh
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/10.png" align="left" width="400" />  
   
-**Description**: [Provide a brief description of the project, the mechanics involved, and any interesting features or challenges you encountered during development.]
-skldsfjsjfd  
-jdsfjhsfhdsfjh  
-dsfhdsfdgfg  
-jdshjfhdsfh  
-sjfhdsfhdfh  
-kdsfjdj  
+This project introduces fundamental gameplay mechanics such as spawning objects, scorekeeping, and basic game loops.  
+The aim of the game is, throw food to the animals with the spacebar and feed them.  
+  
+**Key Skills**: Object interaction, Obstacle avoidance, Game state management , Scoring systems, Spawn Object  
+  
+.  
+  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421102)  
 
 ---  

@@ -108,14 +108,13 @@ The aim of the game is to fly the balloon using the space bar, collect coins and
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/8.png" align="left" width="400" />  
 
-**Description**: [Provide a brief description of the project, the mechanics involved, and any interesting features or challenges you encountered during development.]  
-djssjf  
-dsıjfdsj  
-djsfjds  
-djsfshda  
-jhdsfhad  
-dkjfdjf  
-sdfjsdf  
+This project dives deeper into gameplay mechanics, introducing more complex interactions and systems. An arcade-style Sumo battle game was implemented for this purpose.  
+The goal is to knock increasingly difficult waves of enemies off a floating island, using power-ups that help defeat them.  
+
+**Key Skills**: Powerup System, Object interaction, Obstacle generation and avoidance, advanced object behaviors, Gameplay balancing
+
+.  
+  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421127)
 
 ---  
@@ -124,13 +123,13 @@ sdfjsdf
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/5.png" align="left" width="400" />  
 
-**Description**: [Provide a brief description of the project, the mechanics involved, and any interesting features or challenges you encountered during development.]  
-djssjf  
-dsıjfdsj  
-djsfjds  
-djsfshda  
-jhdsfhad  
-dkjfdjf  
+In this project, a football game was created where player control, ball physics and scoring systems were applied.  
+The aim of the game is to prevent goals from being scored and to become stronger by collecting boosters. Throw the increasing balls into the opponent's goal with each new wave.    
+
+**Key Skills**: Player and ball mechanics, Goal detection, Scripting game rules, New enemy wave system
+
+.  
+  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421127)
 
 ---  
@@ -139,12 +138,13 @@ dkjfdjf
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/9.png" align="left" width="400" />  
 
-**Description**: [Provide a brief description of the project, the mechanics involved, and any interesting features or challenges you encountered during development.]  
-djssjf  
-dsıjfdsj  
-djsfjds  
-djsfshda  
-jhdsfhad   
+In this project, user interfaces (UI) were designed and implemented for interactive and intuitive player experiences.  
+The aim of the game is to click while avoiding the skull and destroy objects randomly thrown into the air before they fall off the screen.   
+
+**Key Skills**: Object spawning and destruction, UI elements creation, Menu design and navigation, User input management, UI animation and effects, Game difficulty progression
+
+.  
+  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421137)
 
 ---  
@@ -153,8 +153,11 @@ jhdsfhad
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/6.png" align="left" width="400" />  
 
-**Description**: [Provide a brief description of the project, the mechanics involved, and any interesting features or challenges you encountered during development.]
+In this project, a game was developed in which players "whack" food items that appear on the screen.  
+The aim of the game is to collect all the food that appears on the grid while avoiding the skulls. If you miss the food, the game is over.  
 
+**Key Skills**: Object spawning and destruction, UI elements creation, Menu design and navigation, User input management, UI animation and effects, Game difficulty progression
+  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421117)
 
 

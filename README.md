@@ -58,12 +58,16 @@ The aim of the game is, throw food to the animals with the spacebar and feed the
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/2.png" align="left" width="400" />  
 
-**Description**: [Provide a brief description of the project, the mechanics involved, and any interesting features or challenges you encountered during development.]  
-cjdshfjdhd  
-jdfhdf  
-jdsfhhf  
-dkjsjfds  
-jfdfjdf  
+In this challenge, balls are caught by spawning a dog with the spacebar.  
+  
+**Key Skills**: Object interaction and pickup, Animation integration  
+  
+.  
+
+.  
+
+.  
+  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421088)  
 
 ---  
@@ -72,13 +76,13 @@ jfdfjdf
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/7.png" align="left" width="400" />  
 
-**Description**: [Provide a brief description of the project, the mechanics involved, and any interesting features or challenges you encountered during development.]  
-kddksjfdsjf  
-dkfjdsf  
-dfjjjkdfha  
-fdksjfk  
-jdfhdfs  
-dsfjjakfs  
+This project focuses on add sound effects and visual effects to enhance the gameplay experience. A fast-paced, endless side-scrolling runner game was implemented for this purpose.  
+The aim of the game is to avoid crashing by jumping over the obstacles you encounter with the space bar.  
+  
+**Key Skills**:  Audio integration, Particle effects, Dynamic sound adjustments, Visual feedback design  
+
+.  
+  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421118)  
 
 ---  
@@ -87,14 +91,15 @@ dsfjjakfs
 
 <img src="https://github.com/HumeyraBali/Unity_Learn_Junior_Programmer_Pathway/blob/main/Source_images/4.png" align="left" width="400" />  
 
-**Description**: [Provide a brief description of the project, the mechanics involved, and any interesting features or challenges you encountered during development.]  
-djssjf  
-dsıjfdsj  
-djsfjds  
-djsfshda  
-jhdsfhad  
-dkjfdjf  
-sdfjsdf  
+Implement gameplay mechanics using boolean logic with balloons and bombs.  
+The aim of the game is to fly the balloon using the space bar, collect coins and avoid bombs.  
+
+**Key Skills**: Boolean logic, Game object interaction, Dynamic object generation, Game balancing
+
+.  
+
+.  
+  
 [Play the game on Unity Play](https://play.unity.com/mg/other/webgl-builds-421108)  
 
 ---  
